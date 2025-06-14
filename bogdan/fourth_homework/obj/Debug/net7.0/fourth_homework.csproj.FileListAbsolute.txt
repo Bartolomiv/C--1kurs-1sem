@@ -1,0 +1,14 @@
+D:\KNU\1kurs_1semestr\C#\bogdan\fourth_homework\bin\Debug\net7.0\fourth_homework.exe
+D:\KNU\1kurs_1semestr\C#\bogdan\fourth_homework\bin\Debug\net7.0\fourth_homework.deps.json
+D:\KNU\1kurs_1semestr\C#\bogdan\fourth_homework\bin\Debug\net7.0\fourth_homework.runtimeconfig.json
+D:\KNU\1kurs_1semestr\C#\bogdan\fourth_homework\bin\Debug\net7.0\fourth_homework.dll
+D:\KNU\1kurs_1semestr\C#\bogdan\fourth_homework\bin\Debug\net7.0\fourth_homework.pdb
+D:\KNU\1kurs_1semestr\C#\bogdan\fourth_homework\obj\Debug\net7.0\fourth_homework.GeneratedMSBuildEditorConfig.editorconfig
+D:\KNU\1kurs_1semestr\C#\bogdan\fourth_homework\obj\Debug\net7.0\fourth_homework.AssemblyInfoInputs.cache
+D:\KNU\1kurs_1semestr\C#\bogdan\fourth_homework\obj\Debug\net7.0\fourth_homework.AssemblyInfo.cs
+D:\KNU\1kurs_1semestr\C#\bogdan\fourth_homework\obj\Debug\net7.0\fourth_homework.csproj.CoreCompileInputs.cache
+D:\KNU\1kurs_1semestr\C#\bogdan\fourth_homework\obj\Debug\net7.0\fourth_homework.dll
+D:\KNU\1kurs_1semestr\C#\bogdan\fourth_homework\obj\Debug\net7.0\refint\fourth_homework.dll
+D:\KNU\1kurs_1semestr\C#\bogdan\fourth_homework\obj\Debug\net7.0\fourth_homework.pdb
+D:\KNU\1kurs_1semestr\C#\bogdan\fourth_homework\obj\Debug\net7.0\fourth_homework.genruntimeconfig.cache
+D:\KNU\1kurs_1semestr\C#\bogdan\fourth_homework\obj\Debug\net7.0\ref\fourth_homework.dll

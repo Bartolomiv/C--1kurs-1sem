@@ -1,0 +1,14 @@
+D:\KNU\1kurs_1semestr\C#\bogdan\third_homework\bin\Debug\net7.0\third_homework.exe
+D:\KNU\1kurs_1semestr\C#\bogdan\third_homework\bin\Debug\net7.0\third_homework.deps.json
+D:\KNU\1kurs_1semestr\C#\bogdan\third_homework\bin\Debug\net7.0\third_homework.runtimeconfig.json
+D:\KNU\1kurs_1semestr\C#\bogdan\third_homework\bin\Debug\net7.0\third_homework.dll
+D:\KNU\1kurs_1semestr\C#\bogdan\third_homework\bin\Debug\net7.0\third_homework.pdb
+D:\KNU\1kurs_1semestr\C#\bogdan\third_homework\obj\Debug\net7.0\third_homework.GeneratedMSBuildEditorConfig.editorconfig
+D:\KNU\1kurs_1semestr\C#\bogdan\third_homework\obj\Debug\net7.0\third_homework.AssemblyInfoInputs.cache
+D:\KNU\1kurs_1semestr\C#\bogdan\third_homework\obj\Debug\net7.0\third_homework.AssemblyInfo.cs
+D:\KNU\1kurs_1semestr\C#\bogdan\third_homework\obj\Debug\net7.0\third_homework.csproj.CoreCompileInputs.cache
+D:\KNU\1kurs_1semestr\C#\bogdan\third_homework\obj\Debug\net7.0\third_homework.dll
+D:\KNU\1kurs_1semestr\C#\bogdan\third_homework\obj\Debug\net7.0\refint\third_homework.dll
+D:\KNU\1kurs_1semestr\C#\bogdan\third_homework\obj\Debug\net7.0\third_homework.pdb
+D:\KNU\1kurs_1semestr\C#\bogdan\third_homework\obj\Debug\net7.0\third_homework.genruntimeconfig.cache
+D:\KNU\1kurs_1semestr\C#\bogdan\third_homework\obj\Debug\net7.0\ref\third_homework.dll
