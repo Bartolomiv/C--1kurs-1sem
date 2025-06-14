@@ -1,0 +1,14 @@
+D:\KNU\1kurs_1semestr\C#\Test_lect\bin\Debug\net7.0\Test_lect.exe
+D:\KNU\1kurs_1semestr\C#\Test_lect\bin\Debug\net7.0\Test_lect.deps.json
+D:\KNU\1kurs_1semestr\C#\Test_lect\bin\Debug\net7.0\Test_lect.runtimeconfig.json
+D:\KNU\1kurs_1semestr\C#\Test_lect\bin\Debug\net7.0\Test_lect.dll
+D:\KNU\1kurs_1semestr\C#\Test_lect\bin\Debug\net7.0\Test_lect.pdb
+D:\KNU\1kurs_1semestr\C#\Test_lect\obj\Debug\net7.0\Test_lect.GeneratedMSBuildEditorConfig.editorconfig
+D:\KNU\1kurs_1semestr\C#\Test_lect\obj\Debug\net7.0\Test_lect.AssemblyInfoInputs.cache
+D:\KNU\1kurs_1semestr\C#\Test_lect\obj\Debug\net7.0\Test_lect.AssemblyInfo.cs
+D:\KNU\1kurs_1semestr\C#\Test_lect\obj\Debug\net7.0\Test_lect.csproj.CoreCompileInputs.cache
+D:\KNU\1kurs_1semestr\C#\Test_lect\obj\Debug\net7.0\Test_lect.dll
+D:\KNU\1kurs_1semestr\C#\Test_lect\obj\Debug\net7.0\refint\Test_lect.dll
+D:\KNU\1kurs_1semestr\C#\Test_lect\obj\Debug\net7.0\Test_lect.pdb
+D:\KNU\1kurs_1semestr\C#\Test_lect\obj\Debug\net7.0\Test_lect.genruntimeconfig.cache
+D:\KNU\1kurs_1semestr\C#\Test_lect\obj\Debug\net7.0\ref\Test_lect.dll
