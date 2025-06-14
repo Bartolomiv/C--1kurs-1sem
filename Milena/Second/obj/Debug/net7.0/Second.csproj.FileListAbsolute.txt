@@ -1,0 +1,42 @@
+D:\Op\Second\bin\Debug\net7.0\Second.exe
+D:\Op\Second\bin\Debug\net7.0\Second.deps.json
+D:\Op\Second\bin\Debug\net7.0\Second.runtimeconfig.json
+D:\Op\Second\bin\Debug\net7.0\Second.dll
+D:\Op\Second\bin\Debug\net7.0\Second.pdb
+D:\Op\Second\obj\Debug\net7.0\Second.GeneratedMSBuildEditorConfig.editorconfig
+D:\Op\Second\obj\Debug\net7.0\Second.AssemblyInfoInputs.cache
+D:\Op\Second\obj\Debug\net7.0\Second.AssemblyInfo.cs
+D:\Op\Second\obj\Debug\net7.0\Second.csproj.CoreCompileInputs.cache
+D:\Op\Second\obj\Debug\net7.0\Second.dll
+D:\Op\Second\obj\Debug\net7.0\refint\Second.dll
+D:\Op\Second\obj\Debug\net7.0\Second.pdb
+D:\Op\Second\obj\Debug\net7.0\Second.genruntimeconfig.cache
+D:\Op\Second\obj\Debug\net7.0\ref\Second.dll
+I:\FREKS\Osnovy_Programuvanya\Second\bin\Debug\net7.0\Second.exe
+I:\FREKS\Osnovy_Programuvanya\Second\bin\Debug\net7.0\Second.deps.json
+I:\FREKS\Osnovy_Programuvanya\Second\bin\Debug\net7.0\Second.runtimeconfig.json
+I:\FREKS\Osnovy_Programuvanya\Second\bin\Debug\net7.0\Second.dll
+I:\FREKS\Osnovy_Programuvanya\Second\bin\Debug\net7.0\Second.pdb
+I:\FREKS\Osnovy_Programuvanya\Second\obj\Debug\net7.0\Second.GeneratedMSBuildEditorConfig.editorconfig
+I:\FREKS\Osnovy_Programuvanya\Second\obj\Debug\net7.0\Second.AssemblyInfoInputs.cache
+I:\FREKS\Osnovy_Programuvanya\Second\obj\Debug\net7.0\Second.AssemblyInfo.cs
+I:\FREKS\Osnovy_Programuvanya\Second\obj\Debug\net7.0\Second.csproj.CoreCompileInputs.cache
+I:\FREKS\Osnovy_Programuvanya\Second\obj\Debug\net7.0\Second.dll
+I:\FREKS\Osnovy_Programuvanya\Second\obj\Debug\net7.0\refint\Second.dll
+I:\FREKS\Osnovy_Programuvanya\Second\obj\Debug\net7.0\Second.pdb
+I:\FREKS\Osnovy_Programuvanya\Second\obj\Debug\net7.0\Second.genruntimeconfig.cache
+I:\FREKS\Osnovy_Programuvanya\Second\obj\Debug\net7.0\ref\Second.dll
+D:\KNU\1kurs_1semestr\Програмування С#\Second\bin\Debug\net7.0\Second.exe
+D:\KNU\1kurs_1semestr\Програмування С#\Second\bin\Debug\net7.0\Second.deps.json
+D:\KNU\1kurs_1semestr\Програмування С#\Second\bin\Debug\net7.0\Second.runtimeconfig.json
+D:\KNU\1kurs_1semestr\Програмування С#\Second\bin\Debug\net7.0\Second.dll
+D:\KNU\1kurs_1semestr\Програмування С#\Second\bin\Debug\net7.0\Second.pdb
+D:\KNU\1kurs_1semestr\Програмування С#\Second\obj\Debug\net7.0\Second.GeneratedMSBuildEditorConfig.editorconfig
+D:\KNU\1kurs_1semestr\Програмування С#\Second\obj\Debug\net7.0\Second.AssemblyInfoInputs.cache
+D:\KNU\1kurs_1semestr\Програмування С#\Second\obj\Debug\net7.0\Second.AssemblyInfo.cs
+D:\KNU\1kurs_1semestr\Програмування С#\Second\obj\Debug\net7.0\Second.csproj.CoreCompileInputs.cache
+D:\KNU\1kurs_1semestr\Програмування С#\Second\obj\Debug\net7.0\Second.dll
+D:\KNU\1kurs_1semestr\Програмування С#\Second\obj\Debug\net7.0\refint\Second.dll
+D:\KNU\1kurs_1semestr\Програмування С#\Second\obj\Debug\net7.0\Second.pdb
+D:\KNU\1kurs_1semestr\Програмування С#\Second\obj\Debug\net7.0\Second.genruntimeconfig.cache
+D:\KNU\1kurs_1semestr\Програмування С#\Second\obj\Debug\net7.0\ref\Second.dll

@@ -1,0 +1,14 @@
+D:\KNU\1kurs_1semestr\C#\Milena\Lab_wokr№1\first\bin\Debug\net7.0\first.exe
+D:\KNU\1kurs_1semestr\C#\Milena\Lab_wokr№1\first\bin\Debug\net7.0\first.deps.json
+D:\KNU\1kurs_1semestr\C#\Milena\Lab_wokr№1\first\bin\Debug\net7.0\first.runtimeconfig.json
+D:\KNU\1kurs_1semestr\C#\Milena\Lab_wokr№1\first\bin\Debug\net7.0\first.dll
+D:\KNU\1kurs_1semestr\C#\Milena\Lab_wokr№1\first\bin\Debug\net7.0\first.pdb
+D:\KNU\1kurs_1semestr\C#\Milena\Lab_wokr№1\first\obj\Debug\net7.0\first.GeneratedMSBuildEditorConfig.editorconfig
+D:\KNU\1kurs_1semestr\C#\Milena\Lab_wokr№1\first\obj\Debug\net7.0\first.AssemblyInfoInputs.cache
+D:\KNU\1kurs_1semestr\C#\Milena\Lab_wokr№1\first\obj\Debug\net7.0\first.AssemblyInfo.cs
+D:\KNU\1kurs_1semestr\C#\Milena\Lab_wokr№1\first\obj\Debug\net7.0\first.csproj.CoreCompileInputs.cache
+D:\KNU\1kurs_1semestr\C#\Milena\Lab_wokr№1\first\obj\Debug\net7.0\first.dll
+D:\KNU\1kurs_1semestr\C#\Milena\Lab_wokr№1\first\obj\Debug\net7.0\refint\first.dll
+D:\KNU\1kurs_1semestr\C#\Milena\Lab_wokr№1\first\obj\Debug\net7.0\first.pdb
+D:\KNU\1kurs_1semestr\C#\Milena\Lab_wokr№1\first\obj\Debug\net7.0\first.genruntimeconfig.cache
+D:\KNU\1kurs_1semestr\C#\Milena\Lab_wokr№1\first\obj\Debug\net7.0\ref\first.dll

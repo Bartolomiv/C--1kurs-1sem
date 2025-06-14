@@ -1,0 +1,42 @@
+D:\Op\Fourth\bin\Debug\net7.0\Fourth.exe
+D:\Op\Fourth\bin\Debug\net7.0\Fourth.deps.json
+D:\Op\Fourth\bin\Debug\net7.0\Fourth.runtimeconfig.json
+D:\Op\Fourth\bin\Debug\net7.0\Fourth.dll
+D:\Op\Fourth\bin\Debug\net7.0\Fourth.pdb
+D:\Op\Fourth\obj\Debug\net7.0\Fourth.GeneratedMSBuildEditorConfig.editorconfig
+D:\Op\Fourth\obj\Debug\net7.0\Fourth.AssemblyInfoInputs.cache
+D:\Op\Fourth\obj\Debug\net7.0\Fourth.AssemblyInfo.cs
+D:\Op\Fourth\obj\Debug\net7.0\Fourth.csproj.CoreCompileInputs.cache
+D:\Op\Fourth\obj\Debug\net7.0\Fourth.dll
+D:\Op\Fourth\obj\Debug\net7.0\refint\Fourth.dll
+D:\Op\Fourth\obj\Debug\net7.0\Fourth.pdb
+D:\Op\Fourth\obj\Debug\net7.0\Fourth.genruntimeconfig.cache
+D:\Op\Fourth\obj\Debug\net7.0\ref\Fourth.dll
+F:\Op\Fourth\bin\Debug\net7.0\Fourth.exe
+F:\Op\Fourth\bin\Debug\net7.0\Fourth.deps.json
+F:\Op\Fourth\bin\Debug\net7.0\Fourth.runtimeconfig.json
+F:\Op\Fourth\bin\Debug\net7.0\Fourth.dll
+F:\Op\Fourth\bin\Debug\net7.0\Fourth.pdb
+F:\Op\Fourth\obj\Debug\net7.0\Fourth.GeneratedMSBuildEditorConfig.editorconfig
+F:\Op\Fourth\obj\Debug\net7.0\Fourth.AssemblyInfoInputs.cache
+F:\Op\Fourth\obj\Debug\net7.0\Fourth.AssemblyInfo.cs
+F:\Op\Fourth\obj\Debug\net7.0\Fourth.csproj.CoreCompileInputs.cache
+F:\Op\Fourth\obj\Debug\net7.0\Fourth.dll
+F:\Op\Fourth\obj\Debug\net7.0\refint\Fourth.dll
+F:\Op\Fourth\obj\Debug\net7.0\Fourth.pdb
+F:\Op\Fourth\obj\Debug\net7.0\Fourth.genruntimeconfig.cache
+F:\Op\Fourth\obj\Debug\net7.0\ref\Fourth.dll
+D:\KNU\1kurs_1semestr\Програмування С#\Fourth\bin\Debug\net7.0\Fourth.exe
+D:\KNU\1kurs_1semestr\Програмування С#\Fourth\bin\Debug\net7.0\Fourth.deps.json
+D:\KNU\1kurs_1semestr\Програмування С#\Fourth\bin\Debug\net7.0\Fourth.runtimeconfig.json
+D:\KNU\1kurs_1semestr\Програмування С#\Fourth\bin\Debug\net7.0\Fourth.dll
+D:\KNU\1kurs_1semestr\Програмування С#\Fourth\bin\Debug\net7.0\Fourth.pdb
+D:\KNU\1kurs_1semestr\Програмування С#\Fourth\obj\Debug\net7.0\Fourth.GeneratedMSBuildEditorConfig.editorconfig
+D:\KNU\1kurs_1semestr\Програмування С#\Fourth\obj\Debug\net7.0\Fourth.AssemblyInfoInputs.cache
+D:\KNU\1kurs_1semestr\Програмування С#\Fourth\obj\Debug\net7.0\Fourth.AssemblyInfo.cs
+D:\KNU\1kurs_1semestr\Програмування С#\Fourth\obj\Debug\net7.0\Fourth.csproj.CoreCompileInputs.cache
+D:\KNU\1kurs_1semestr\Програмування С#\Fourth\obj\Debug\net7.0\Fourth.dll
+D:\KNU\1kurs_1semestr\Програмування С#\Fourth\obj\Debug\net7.0\refint\Fourth.dll
+D:\KNU\1kurs_1semestr\Програмування С#\Fourth\obj\Debug\net7.0\Fourth.pdb
+D:\KNU\1kurs_1semestr\Програмування С#\Fourth\obj\Debug\net7.0\Fourth.genruntimeconfig.cache
+D:\KNU\1kurs_1semestr\Програмування С#\Fourth\obj\Debug\net7.0\ref\Fourth.dll
